@@ -13,6 +13,8 @@
 ## Topics coverd
 - BasicPractice
 - Arrays
+### Searching Algorithm
+- Linear Search 
 
 # Solution formate
 - Each solution is organized by topic and uses a descriptive Java filename.
