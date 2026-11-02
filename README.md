@@ -13,6 +13,7 @@
 ## Topics coverd
 - BasicPractice
 - Arrays
+
 ### Searching Algorithm
 - Linear Search 
 
